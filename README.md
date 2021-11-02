@@ -4,7 +4,7 @@ Clon de facebook
 created in:
 * **PHP**           - *[7.4]*
 * **Vue.js**        - *[]*
-* **Nuxt.js**       - *[]*
+* **Nuxt.js**       - *[v2.15.8 ]*
 * **tailwindcss**   - *[]*
 * **sass**  
 
@@ -31,17 +31,11 @@ npm init nuxt-app@latest faceLanding
 * **cd faceLanding**
 * **npm run build**
 * **npm run start**
+
 ``bash
-   ╭───────────────────────────────────────────────────────╮
-   │ Nuxt @ v2.15.8                                        │ 
-   │                                                       │
-   │   ▸ Environment: development                          │
-   │   ▸ Rendering:   server-side                          │
-   │   ▸ Target:      server                               │
-   │                                                       │     
-   │   [![Listening:](http://localhost:3000/)](http://localhost:3000/)               │
-   │                                                       │
-   │   [![Tailwind Viewer:](http://localhost:3000/_tailwind/)](http://localhost:3000/_tailwind/)               │       
-   │                                                       │
-   ╰───────────────────────────────────────────────────────╯
+   
+   ### Nuxt @ v2.15.8 ###                                    
+  * Listening: http://localhost:3000/
+  * Tailwind Viewer:http://localhost:3000/_tailwind/     
+
 ```

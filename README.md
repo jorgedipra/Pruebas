@@ -36,4 +36,4 @@ npm init nuxt-app@latest faceLanding
   * Listening: http://localhost:3000/  
 
 ###  vuetifyjs ###
-  * [![Documentation](https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg?style=flat)](https://vuetifyjs.com/en/getting-started/installation/)
+  * [![Documentation](https://github.com/vuetifyjs/vuetify/workflows/CI/badge.svg?branch=master&event=push)](https://vuetifyjs.com/en/getting-started/installation/)

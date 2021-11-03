@@ -5,7 +5,7 @@ created in:
 * **PHP**           - *[7.4]*
 * **Vue.js**        - *[]*
 * **Nuxt.js**       - *[v2.15.8 ]*
-* **tailwindcss**   - *[]*
+* **vuetifyjs**     - *[v2.5.10]*
 * **sass**  
 
 # Create Nuxt App
@@ -31,11 +31,9 @@ npm init nuxt-app@latest faceLanding
 * **cd faceLanding**
 * **npm run build**
 * **npm run start**
-
-``bash
    
-   ### Nuxt @ v2.15.8 ###                                    
-  * Listening: http://localhost:3000/
-  * Tailwind Viewer:http://localhost:3000/_tailwind/     
+### Nuxt @ v2.15.8 ###                                    
+  * Listening: http://localhost:3000/  
 
-```
+###  vuetifyjs ###
+  * [![Documentation](https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg?style=flat)](https://vuetifyjs.com/en/getting-started/installation/)

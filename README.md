@@ -1,6 +1,7 @@
 # facebook 🚀
 Clon de facebook 
-
+* https://github.com/jorgedipra/facebook/tree/dev
+* https://github.com/jorgedipra/facebook/
 created in:
 * **PHP**           - *[7.4]*
 * **Vue.js**        - *[]*
@@ -36,4 +37,4 @@ npm init nuxt-app@latest faceLanding
   * Listening: http://localhost:3000/  
 
 ###  vuetifyjs ###
-  * [![Documentation](https://github.com/vuetifyjs/vuetify/workflows/CI/badge.svg?branch=master&event=push)](https://vuetifyjs.com/en/getting-started/installation/)
+  * Documentation: [![Documentation](https://github.com/vuetifyjs/vuetify/workflows/CI/badge.svg?branch=master&event=push)](https://vuetifyjs.com/en/getting-started/installation/)
